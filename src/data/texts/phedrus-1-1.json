@@ -1,0 +1,195 @@
+{
+  "id": "phedrus-1-1",
+  "author": "Phèdre",
+  "work": "Fables",
+  "passage": "I, 1 — Le loup et l'agneau",
+  "level": "simple",
+  "source": "Texte latin du domaine public (Phèdre, Fables I, 1). Traduction et annotations originales.",
+  "annotated": true,
+  "sentences": [
+    {
+      "toks": [
+        { "t": "Ad", "lemma": "ad (préposition + acc.)", "morph": "préposition", "fn": "cc", "note": "Préposition (+ accusatif) : introduit un complément de lieu." },
+        { "t": "rivum", "lemma": "rivus, i, m.", "morph": "accusatif singulier", "cs": "acc", "fn": "cc", "note": "Complément de lieu introduit par ad : vers le ruisseau." },
+        { "t": "eundem", "lemma": "idem, eadem, idem", "morph": "accusatif singulier masculin", "cs": "acc", "note": "Épithète de rivum : le même." },
+        { "t": "lupus", "lemma": "lupus, i, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de venerant." },
+        { "t": "et", "lemma": "et", "morph": "conjonction de coordination", "note": "Coordination des deux sujets." },
+        { "t": "agnus", "lemma": "agnus, i, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de venerant, coordonné à lupus." },
+        { "t": "venerant", "lemma": "venio, venire, veni, ventum", "morph": "plus-que-parfait 3ᵉ pl. actif", "fn": "verbe", "mood": "indicatif", "note": "Chez Phèdre, cette forme a souvent la valeur d'un parfait : « sont venus »." },
+        { "t": "siti", "lemma": "sitis, is, f.", "morph": "ablatif singulier", "cs": "abl", "fn": "cc", "note": "Ablatif de cause, complément du participe compulsi : poussés par la soif.", "p": "," },
+        { "t": "compulsi", "lemma": "compello, ere, puli, pulsus", "morph": "participe parfait nominatif pluriel masc.", "cs": "nom", "mood": "participe", "fn": "attribut", "note": "Apposé au sujet : « poussés » (par la soif).", "p": "." }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Superior", "lemma": "superior, oris (comparatif de superus)", "morph": "nominatif singulier masc.", "cs": "nom", "note": "Épithète de lupus : placé plus en amont." },
+        { "t": "stabat", "lemma": "sto, are, steti, statum", "morph": "imparfait 3ᵉ sg. actif", "fn": "verbe", "mood": "indicatif" },
+        { "t": "lupus", "lemma": "lupus, i, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de stabat.", "p": "," },
+        { "t": "longeque", "lemma": "longe + -que", "morph": "adverbe (avec enclitique)", "fn": "adverbe", "note": "longeque = longe + -que : « et loin »." },
+        { "t": "inferior", "lemma": "inferior, oris (comparatif de inferus)", "morph": "nominatif singulier masc.", "cs": "nom", "note": "Épithète de agnus : placé plus en aval." },
+        { "t": "agnus", "lemma": "agnus, i, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujets de stabat : lupus et agnus.", "p": "." }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Tunc", "lemma": "tunc", "morph": "adverbe de temps", "fn": "adverbe", "note": "Alors." },
+        { "t": "fauce", "lemma": "fauces, faucium, f.", "morph": "ablatif singulier", "cs": "abl", "fn": "cc", "note": "Ablatif de moyen, avec le participe incitatus : par sa gueule." },
+        { "t": "improba", "lemma": "improbus, a, um", "morph": "ablatif singulier fém.", "cs": "abl", "note": "Épithète de fauce (épithète transférée : la « cupide » est en fait le loup)." },
+        { "t": "latro", "lemma": "latro, onis, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de intulit : le loup, appelé « brigand »." },
+        { "t": "incitatus", "lemma": "incito, are, avi, atum", "morph": "participe parfait nominatif sg. masc.", "cs": "nom", "mood": "participe", "fn": "attribut", "note": "Apposé au sujet : excité." },
+        { "t": "iurgii", "lemma": "iurgium, i, n.", "morph": "génitif singulier", "cs": "gen", "fn": "coi", "note": "Génitif déterminatif : complément du nom causam." },
+        { "t": "causam", "lemma": "causa, ae, f.", "morph": "accusatif singulier", "cs": "acc", "fn": "cod", "note": "COD de intulit ; causam inferre = « chercher querelle »." },
+        { "t": "intulit", "lemma": "infero, inferre, intuli, illatum", "morph": "parfait 3ᵉ sg. actif", "fn": "verbe", "mood": "indicatif", "p": ":" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Cur", "lemma": "cur", "morph": "adverbe interrogatif", "fn": "adverbe", "pre": "« ", "p": "," },
+        { "t": "inquit", "lemma": "inquam, inquis...", "morph": "parfait 3ᵉ sg. (présent historique)", "fn": "verbe", "mood": "indicatif", "note": "Verbe déclaratif (incise) : dit-il.", "p": "," },
+        { "t": "turbulentam", "lemma": "turbulentus, a, um", "morph": "accusatif singulier fém.", "cs": "acc", "note": "Épithète de aquam." },
+        { "t": "fecisti", "lemma": "facio, ere, feci, factum", "morph": "parfait 2ᵉ sg. actif", "fn": "verbe", "mood": "indicatif" },
+        { "t": "mihi", "lemma": "ego, mei", "morph": "datif singulier", "cs": "dat", "fn": "coi", "note": "Datif d'attribution : à moi." },
+        { "t": "aquam", "lemma": "aqua, ae, f.", "morph": "accusatif singulier", "cs": "acc", "fn": "cod", "note": "COD de fecisti." },
+        { "t": "bibenti", "lemma": "bibo, ere", "morph": "participe présent datif sg.", "cs": "dat", "mood": "participe", "note": "Apposé à mihi : « à moi qui bois » (datif + participe).", "p": " ? »" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Laniger", "lemma": "laniger, gri, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de possum : l'agneau, « porteur de laine »." },
+        { "t": "contra", "lemma": "contra", "morph": "adverbe", "fn": "adverbe", "note": "En réponse." },
+        { "t": "timens", "lemma": "timeo, ere, ui", "morph": "participe présent nominatif sg.", "cs": "nom", "mood": "participe", "note": "Apposé à Laniger : craintif.", "p": " :" },
+        { "t": "Qui", "lemma": "qui, quae, quod", "morph": "adverbe interrogatif (nominatif employé adverbialement)", "fn": "adverbe", "note": "Valeur adverbiale : « comment ? » (= quo modo).", "pre": "« " },
+        { "t": "possum", "lemma": "possum, posse, potui", "morph": "présent 1ʳᵉ sg. actif", "fn": "verbe", "mood": "indicatif", "p": "," },
+        { "t": "quaeso", "lemma": "quaeso, ere", "morph": "présent 1ʳᵉ sg. actif", "fn": "verbe", "mood": "indicatif", "note": "Incise : « je te prie ».", "p": "," },
+        { "t": "facere", "lemma": "facio, ere, feci, factum", "morph": "infinitif présent actif", "fn": "verbe", "mood": "infinitif", "note": "Infinitif dépendant de possum." },
+        { "t": "quod", "lemma": "qui, quae, quod", "morph": "pronom relatif, accusatif sg. neutre", "cs": "acc", "fn": "cod", "note": "COD de quereris (dans la relative) : ce que.", "p2": { "id": "rel1", "label": "relative" } },
+        { "t": "quereris", "lemma": "queror, eri, questus sum", "morph": "présent 2ᵉ sg. (déponent)", "fn": "verbe", "mood": "indicatif", "p2": { "id": "rel1", "label": "relative" }, "p": "," },
+        { "t": "lupe", "lemma": "lupus, i, m.", "morph": "vocatif singulier", "cs": "voc", "note": "Vocatif en -e des noms en -us : apostrophe au loup.", "p": " ? »" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "A", "lemma": "a / ab (préposition + abl.)", "morph": "préposition", "fn": "cc", "note": "+ ablatif : point de départ.", "pre": "« " },
+        { "t": "te", "lemma": "tu, tui", "morph": "ablatif singulier", "cs": "abl", "fn": "cc", "note": "Ablatif après a : à partir de toi." },
+        { "t": "decurrit", "lemma": "decurro, ere, cucurri", "morph": "parfait 3ᵉ sg. actif", "fn": "verbe", "mood": "indicatif", "note": "Coule vers l'aval (vers l'agneau)." },
+        { "t": "liquor", "lemma": "liquor, oris, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de decurrit : l'eau.", "p": ". »" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Ille", "lemma": "ille, illa, illud", "morph": "nominatif singulier masc.", "cs": "nom", "fn": "sujet", "note": "Sujet de ait : le loup." },
+        { "t": "veritatis", "lemma": "veritas, atis, f.", "morph": "génitif singulier", "cs": "gen", "fn": "coi", "note": "Génitif dépendant de inritus : furieux « de » la vérité." },
+        { "t": "inritus", "lemma": "inritus (irritus), a, um", "morph": "nominatif singulier masc.", "cs": "nom", "fn": "attribut", "note": "Apposé au sujet : hors de lui.", "p": " :" },
+        { "t": "Ante", "lemma": "ante (préposition + acc.)", "morph": "préposition", "fn": "cc", "note": "+ accusatif : marque le temps écoulé.", "pre": "« " },
+        { "t": "hos", "lemma": "hic, haec, hoc", "morph": "accusatif pluriel masc.", "cs": "acc", "note": "Épithète de mensibus : ces six derniers mois." },
+        { "t": "sex", "lemma": "sex", "morph": "numéral (invariable)", "note": "Six : numéral invariable." },
+        { "t": "mensibus", "lemma": "mensis, is, m.", "morph": "ablatif pluriel", "cs": "abl", "fn": "cc", "note": "Ablatif de temps écoulé avec ante : il y a six mois.", "p": "," },
+        { "t": "ait", "lemma": "aio", "morph": "3ᵉ sg. (présent/parfait)", "fn": "verbe", "mood": "indicatif", "note": "Incise : dit-il.", "p": "," },
+        { "t": "male", "lemma": "male", "morph": "adverbe", "fn": "adverbe" },
+        { "t": "dixisti", "lemma": "dico, ere, dixi, dictum", "morph": "parfait 2ᵉ sg. actif", "fn": "verbe", "mood": "indicatif" },
+        { "t": "mihi", "lemma": "ego, mei", "morph": "datif singulier", "cs": "dat", "fn": "coi", "note": "COI : à moi.", "p": ". »" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Respondit", "lemma": "respondeo, ere, respondi", "morph": "parfait 3ᵉ sg. actif", "fn": "verbe", "mood": "indicatif" },
+        { "t": "agnus", "lemma": "agnus, i, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de respondit.", "p": " :" },
+        { "t": "Equidem", "lemma": "equidem", "morph": "adverbe", "fn": "adverbe", "note": "Certes, pour ma part.", "pre": "« " },
+        { "t": "tum", "lemma": "tum", "morph": "adverbe de temps", "fn": "adverbe", "note": "Alors, à cette époque." },
+        { "t": "non", "lemma": "non", "morph": "adverbe de négation", "fn": "adverbe" },
+        { "t": "eram", "lemma": "sum, esse, fui", "morph": "imparfait 1ʳᵉ sg.", "fn": "verbe", "mood": "indicatif", "note": "Avec natus : forme le plus-que-parfait de nascor." },
+        { "t": "natus", "lemma": "nascor, nasci, natus sum", "morph": "participe parfait nominatif sg. masc.", "cs": "nom", "mood": "participe", "note": "Avec eram : « je n'étais pas encore né » (conjugaison périphrastique).", "p": ". »" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Pater", "lemma": "pater, tris, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de dixit (proposé au discours direct).", "pre": "« " },
+        { "t": "hercle", "lemma": "mehercule / hercle", "morph": "interjection", "fn": "adverbe", "note": "Serment : « par Hercule ! »" },
+        { "t": "tuus", "lemma": "tuus, a, um", "morph": "nominatif singulier masc.", "cs": "nom", "note": "Épithète de pater." },
+        { "t": "inquit", "lemma": "inquam", "morph": "parfait 3ᵉ sg.", "fn": "verbe", "mood": "indicatif", "note": "Incise.", "p": "," },
+        { "t": "male", "lemma": "male", "morph": "adverbe", "fn": "adverbe" },
+        { "t": "dixit", "lemma": "dico, ere, dixi, dictum", "morph": "parfait 3ᵉ sg. actif", "fn": "verbe", "mood": "indicatif" },
+        { "t": "mihi", "lemma": "ego, mei", "morph": "datif singulier", "cs": "dat", "fn": "coi", "note": "COI : à moi.", "p": ". »" },
+        { "t": "Atque", "lemma": "atque", "morph": "conjonction de coordination", "note": "Et." },
+        { "t": "ita", "lemma": "ita", "morph": "adverbe", "fn": "adverbe", "note": "Ainsi." },
+        { "t": "correptum", "lemma": "corripio, ere, ripui, reptum", "morph": "participe parfait accusatif sg. masc.", "cs": "acc", "mood": "participe", "fn": "cod", "note": "Apposé à l'agneau, COD de lacerat : « l'ayant saisi »." },
+        { "t": "lacerat", "lemma": "lacero, are", "morph": "présent 3ᵉ sg. actif", "fn": "verbe", "mood": "indicatif", "note": "Présent de narration." },
+        { "t": "injusta", "lemma": "iniustus, a, um", "morph": "ablatif singulier fém.", "cs": "abl", "note": "Épithète de nece." },
+        { "t": "nece", "lemma": "nex, necis, f.", "morph": "ablatif singulier", "cs": "abl", "fn": "cc", "note": "Ablatif de manière : d'une mort injuste.", "p": "." }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Haec", "lemma": "hic, haec, hoc", "morph": "nominatif singulier fém.", "cs": "nom", "fn": "sujet", "note": "Sujet de scripta est ; il annonce fabula (hyperbaton)." },
+        { "t": "propter", "lemma": "propter (préposition + acc.)", "morph": "préposition", "fn": "cc", "note": "+ accusatif : à cause de." },
+        { "t": "illos", "lemma": "ille, illa, illud", "morph": "accusatif pluriel masc.", "cs": "acc", "fn": "cc", "note": "Complément de propter : ces hommes-là." },
+        { "t": "scripta", "lemma": "scribo, ere, scripsi, scriptum", "morph": "participe parfait nominatif sg. fém.", "cs": "nom", "mood": "participe", "fn": "verbe", "note": "Avec est : parfait passif de scribo." },
+        { "t": "est", "lemma": "sum, esse, fui", "morph": "présent 3ᵉ sg.", "fn": "verbe", "mood": "indicatif", "note": "Auxiliaire de scripta." },
+        { "t": "homines", "lemma": "homo, inis, m.", "morph": "accusatif pluriel masc.", "cs": "acc", "note": "Apposition à illos : ces hommes.", "p": "," },
+        { "t": "fabula", "lemma": "fabula, ae, f.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de scripta est : reprend haec." },
+        { "t": "quibus", "lemma": "qui, quae, quod", "morph": "pronom relatif, datif pluriel", "cs": "dat", "fn": "coi", "note": "COI de peperit : à ces hommes-là.", "p2": { "id": "rel2", "label": "relative" } },
+        { "t": "poenam", "lemma": "poena, ae, f.", "morph": "accusatif singulier", "cs": "acc", "fn": "cod", "note": "COD de peperit.", "p2": { "id": "rel2", "label": "relative" } },
+        { "t": "non", "lemma": "non", "morph": "adverbe de négation", "fn": "adverbe", "p2": { "id": "rel2", "label": "relative" } },
+        { "t": "peperit", "lemma": "pario, ere, peperi", "morph": "parfait 3ᵉ sg. actif", "fn": "verbe", "mood": "indicatif", "p2": { "id": "rel2", "label": "relative" } },
+        { "t": "facti", "lemma": "facinus, oris, n.", "morph": "génitif singulier", "cs": "gen", "fn": "coi", "note": "Génitif déterminatif : complément de poenam (le châtiment du forfait).", "p2": { "id": "rel2", "label": "relative" }, "p": "." }
+      ]
+    }
+  ],
+  "vocab": [
+    { "l": "rivus, i, m.", "f": "le ruisseau" },
+    { "l": "idem, eadem, idem", "f": "le même" },
+    { "l": "superior / inferior, oris", "f": "plus en amont / plus en aval" },
+    { "l": "sto, are, steti", "f": "se tenir debout" },
+    { "l": "longe", "f": "loin" },
+    { "l": "tunc", "f": "alors" },
+    { "l": "fauces, faucium, f.", "f": "la gueule" },
+    { "l": "improbus, a, um", "f": "méchant, cupide" },
+    { "l": "latro, onis, m.", "f": "le brigand" },
+    { "l": "incito, are", "f": "exciter" },
+    { "l": "iurgium, i, n.", "f": "la querelle" },
+    { "l": "causam inferre", "f": "chercher querelle" },
+    { "l": "infero, ferre, intuli, illatum", "f": "apporter" },
+    { "l": "turbulentus, a, um", "f": "troublé" },
+    { "l": "bibo, ere", "f": "boire" },
+    { "l": "laniger, gri, m.", "f": "le porteur de laine (l'agneau)" },
+    { "l": "contra", "f": "en face, en réponse" },
+    { "l": "timeo, ere", "f": "craindre" },
+    { "l": "quaeso, ere", "f": "je te prie" },
+    { "l": "possum, posse", "f": "pouvoir" },
+    { "l": "queror, eri, questus sum", "f": "se plaindre" },
+    { "l": "decurro, ere", "f": "couler vers l'aval" },
+    { "l": "liquor, oris, m.", "f": "le liquide, l'eau" },
+    { "l": "inritus (irritus), a, um", "f": "furieux" },
+    { "l": "equidem", "f": "certes (pour ma part)" },
+    { "l": "nascor, nasci, natus sum", "f": "naître" },
+    { "l": "hercle", "f": "par Hercule !" },
+    { "l": "corripio, ere, ripui", "f": "saisir" },
+    { "l": "lacero, are", "f": "déchirer" },
+    { "l": "nex, necis, f.", "f": "la mort violente" },
+    { "l": "poena, ae, f.", "f": "le châtiment" },
+    { "l": "facinus, oris, n.", "f": "le forfait" },
+    { "l": "propter (+ acc.)", "f": "à cause de" }
+  ],
+  "difficulties": [
+    "venerant : plus-que-parfait (valeur de parfait chez Phèdre) — « étaient venus ».",
+    "superior / inferior : comparatifs spatiaux = « plus en amont » / « plus en aval ».",
+    "fauce improba : ablatif de moyen avec le participe incitatus ; épithète transférée (la « cupide » est le loup, non la gueule).",
+    "iurgii causam intulit : expression causam inferre = « chercher querelle » ; iurgii est un génitif déterminatif (complément du nom).",
+    "mihi bibenti : double datif (attribution + participe apposé) = « à moi, qui bois ».",
+    "Qui possum : qui employé comme adverbe = « comment ? » (quo modo).",
+    "lupe : vocatif en -e des noms de la 2ᵉ déclinaison en -us.",
+    "a te decurrit : ablatif de point de départ après la préposition a.",
+    "ante hos sex mensibus : ablatif de temps écoulé = « il y a six mois ».",
+    "eram natus : conjugaison périphrastique (participe parfait + imperfectum) = plus-que-parfait de nascor.",
+    "correptum : participe parfait apposé au COD (l'agneau) — « l'ayant saisi ».",
+    "injusta nece : ablatif de manière.",
+    "Haec … homines, fabula quibus … facti : hyperbaton ; quibus est un datif ; poenam facti contient un génitif déterminatif."
+  ],
+  "culture": [
+    "Phèdre (Ier s. ap. J.-C.) : affranchi d'Auguste, premier auteur latin à mettre les fables d'Ésope en vers (sénaires iambiques).",
+    "La fable est un genre « modeste » utilisé, sous Auguste, comme critique voilée du pouvoir : le loup y figure le puissant, l'agneau l'innocent.",
+    "Le dénouement (vers final) transpose la fable dans la réalité politique : les « loups » de la société romaine ne sont pas punis par la morale du récit.",
+    "Les comparatifs superior / inferior évoquent la position réelle des deux animaux au bord du ruisseau : le vocabulaire spatial structure tout le récit."
+  ],
+  "translation": "Le loup et l'agneau, poussés par la soif, étaient venus au même ruisseau. Le loup se tenait plus en amont, l'agneau bien plus en aval. Alors le brigand, excité par sa gueule cupide, chercha prétexte à querelle. « Pourquoi, dit-il, as-tu rendu trouble l'eau que je buvais ? » Le porteur de laine, tout tremblant, lui répond : « Comment le puis-je, je t'en prie, loup, faire ce dont tu te plains ? C'est de toi que l'eau descend. » L'autre, furieux d'entendre la vérité : « Il y a six mois, dit-il, tu as dit du mal de moi. » L'agneau répondit : « Pour ma part, je n'étais pas encore né. » « C'est ton père, par Hercule, qui en a dit du mal », reprit-il ; et ainsi il le saisit et le déchire d'une mort injuste. Cette fable est écrite pour ces hommes-là : à ceux que le récit n'a pas punis de leur forfait."
+}

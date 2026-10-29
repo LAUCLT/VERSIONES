@@ -1,0 +1,173 @@
+{
+  "id": "cicero-catil-1",
+  "author": "Cicéron",
+  "work": "Catilinaires",
+  "passage": "In Catilinam, I, 1 — ouverture",
+  "level": "moyen",
+  "source": "Texte latin du domaine public (Cicéron, In Catilinam I, 1). Traduction et annotations originales.",
+  "annotated": true,
+  "sentences": [
+    {
+      "toks": [
+        { "t": "Quousque", "lemma": "quousque", "morph": "adverbe interrogatif", "fn": "adverbe", "note": "Jusqu'à quand ?" },
+        { "t": "tandem", "lemma": "tandem", "morph": "adverbe", "fn": "adverbe", "note": "Donc, enfin — marque l'impatience." },
+        { "t": "abuteris", "lemma": "abutor, abuti (+ abl.)", "morph": "présent 2ᵉ sg. (déponent)", "fn": "verbe", "mood": "indicatif", "note": "Abuser de : son complément (patientia) est à l'ablatif." },
+        { "t": "Catilina", "lemma": "Catilina, ae, m.", "morph": "vocatif singulier (= nominatif)", "cs": "voc", "note": "Vocatif : apostrophe à Catilina.", "p": "," },
+        { "t": "patientia", "lemma": "patientia, ae, f.", "morph": "ablatif singulier", "cs": "abl", "fn": "coi", "note": "Ablatif complément de abuteris." },
+        { "t": "nostra", "lemma": "noster, tra, trum", "morph": "ablatif sg. fém.", "cs": "abl", "note": "Épithète de patientia.", "p": " ?" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Quam", "lemma": "quam (adverbe)", "morph": "adverbe", "fn": "adverbe", "note": "quam diu : combien de temps." },
+        { "t": "diu", "lemma": "diu", "morph": "adverbe de temps", "fn": "adverbe" },
+        { "t": "etiam", "lemma": "etiam", "morph": "adverbe", "fn": "adverbe", "note": "Encore." },
+        { "t": "furor", "lemma": "furor, oris, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de eludet." },
+        { "t": "iste", "lemma": "iste, ista, istud", "morph": "nominatif sg. masc.", "cs": "nom", "note": "Démonstratif de 2ᵉ personne : « ce … de toi » ; épithète de furor." },
+        { "t": "tuus", "lemma": "tuus, a, um", "morph": "nominatif sg. masc.", "cs": "nom", "note": "Épithète de furor." },
+        { "t": "nos", "lemma": "ego, mei", "morph": "accusatif pluriel", "cs": "acc", "fn": "cod", "note": "COD de eludet." },
+        { "t": "eludet", "lemma": "eludo, ere", "morph": "futur 3ᵉ sg. actif", "fn": "verbe", "mood": "indicatif", "note": "Futur : se jouera de nous.", "p": " ?" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Quem", "lemma": "qui, quae, quod", "morph": "interrogatif acc. sg. masc.", "cs": "acc", "fn": "adverbe", "note": "quem ad finem : « jusqu'à quelle limite ? » — employé dans une locution adverbiale." },
+        { "t": "ad", "lemma": "ad (préposition + acc.)", "morph": "préposition", "fn": "cc" },
+        { "t": "finem", "lemma": "finis, is, m.", "morph": "accusatif singulier", "cs": "acc", "fn": "cc", "note": "Complément introduit par ad : « jusqu'à quelle limite »." },
+        { "t": "sese", "lemma": "sui (réfléchi)", "morph": "accusatif singulier", "cs": "acc", "fn": "cod", "note": "COD réfléchi de iactabit : se." },
+        { "t": "effrenata", "lemma": "effreno, are", "morph": "participe parfait nominatif sg. fém.", "cs": "nom", "mood": "participe", "note": "Épithète de audacia (hyperbaton) : débridée." },
+        { "t": "iactabit", "lemma": "iacto, are", "morph": "futur 3ᵉ sg. actif", "fn": "verbe", "mood": "indicatif" },
+        { "t": "audacia", "lemma": "audacia, ae, f.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de iactabit ; effrenata en est l'épithète (séparée).", "p": " ?" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Nihilne", "lemma": "nihil + -ne", "morph": "adverbe (négation + particule interrogative)", "fn": "adverbe", "note": "« Rien … donc ? » : négation + interrogation directe." },
+        { "t": "te", "lemma": "tu, tui", "morph": "accusatif singulier", "cs": "acc", "fn": "cod", "note": "COD de moverunt." },
+        { "t": "nocturnum", "lemma": "nocturnus, a, um", "morph": "nominatif sg. neutre", "cs": "nom", "note": "Épithète de praesidium : la garde nocturne." },
+        { "t": "praesidium", "lemma": "praesidium, i, n.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de moverunt — premier terme de la série anaphorique." },
+        { "t": "Palati", "lemma": "Palatium, i, n.", "morph": "génitif singulier", "cs": "gen", "fn": "coi", "note": "Génitif : complément du nom praesidium (du Palatin).", "p": "," },
+        { "t": "nihil", "lemma": "nihil", "morph": "adverbe", "fn": "adverbe", "note": "« Rien » : tête de chaque membre de l'anaphore." },
+        { "t": "urbis", "lemma": "urbs, urbis, f.", "morph": "génitif singulier", "cs": "gen", "fn": "coi", "note": "Génitif : complément du nom vigiliae." },
+        { "t": "vigiliae", "lemma": "vigilia, ae, f.", "morph": "nominatif pluriel", "cs": "nom", "fn": "sujet", "note": "Sujet de moverunt." },
+        { "t": "nihil", "lemma": "nihil", "morph": "adverbe", "fn": "adverbe" },
+        { "t": "timor", "lemma": "timor, oris, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de moverunt." },
+        { "t": "populi", "lemma": "populus, i, m.", "morph": "génitif singulier", "cs": "gen", "fn": "coi", "note": "Complément du nom timor.", "p": "," },
+        { "t": "nihil", "lemma": "nihil", "morph": "adverbe", "fn": "adverbe" },
+        { "t": "concursus", "lemma": "concursus, us, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de moverunt : le rassemblement." },
+        { "t": "bonorum", "lemma": "bonus, a, um (substantivé)", "morph": "génitif pluriel masc.", "cs": "gen", "fn": "coi", "note": "Génitif : complément du nom concursus — les honnêtes gens." },
+        { "t": "omnium", "lemma": "omnis, e", "morph": "génitif pluriel", "cs": "gen", "fn": "coi", "note": "Complément de bonorum.", "p": "," },
+        { "t": "nihil", "lemma": "nihil", "morph": "adverbe", "fn": "adverbe" },
+        { "t": "hic", "lemma": "hic, haec, hoc", "morph": "nominatif sg. masc.", "cs": "nom", "note": "Épithète de locus : ce … ici." },
+        { "t": "munitissimus", "lemma": "munio, ire, ivi, itum", "morph": "adjectif verbal superlatif, nom. sg. masc.", "cs": "nom", "note": "Superlatif : très fortifié ; épithète de locus." },
+        { "t": "habendi", "lemma": "habeo, ere (gérondif)", "morph": "gérondif génitif singulier", "cs": "gen", "fn": "coi", "note": "Gérondif : complément de locus (lieu de réunion)." },
+        { "t": "senatus", "lemma": "senatus, us, m.", "morph": "génitif singulier", "cs": "gen", "fn": "coi", "note": "Complément de habendi : du Sénat." },
+        { "t": "locus", "lemma": "locus, i, m.", "morph": "nominatif singulier", "cs": "nom", "fn": "sujet", "note": "Sujet de moverunt." },
+        { "t": "nihil", "lemma": "nihil", "morph": "adverbe", "fn": "adverbe" },
+        { "t": "horum", "lemma": "hic, haec, hoc", "morph": "génitif pluriel masc.", "cs": "gen", "fn": "coi", "note": "Génitif : complément de ora vultusque." },
+        { "t": "ora", "lemma": "os, oris, n. (pluriel : ora, orum)", "morph": "nominatif pluriel", "cs": "nom", "fn": "sujet", "note": "Sujet de moverunt : les visages (pluriel irrégulier de os)." },
+        { "t": "vultusque", "lemma": "vultus, us, m. + -que", "morph": "nominatif pluriel masc.", "cs": "nom", "fn": "sujet", "note": "Sujet de moverunt : et les visages (vultus + enclitique -que)." },
+        { "t": "moverunt", "lemma": "moveo, ere, movi, motum", "morph": "parfait 3ᵉ pl. actif", "fn": "verbe", "mood": "indicatif", "p": " ?" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Patere", "lemma": "patior, pati, passus sum", "morph": "infinitif présent (déponent)", "fn": "verbe", "mood": "infinitif", "note": "Proposition infinitive, sujet de sentis : « être à découvert ».", "p2": { "id": "pi1", "label": "prop. inf." } },
+        { "t": "tua", "lemma": "tuus, a, um", "morph": "accusatif pluriel neutre", "cs": "acc", "note": "Épithète de consilia.", "p2": { "id": "pi1", "label": "prop. inf." } },
+        { "t": "consilia", "lemma": "consilium, i, n.", "morph": "accusatif pluriel neutre", "cs": "acc", "fn": "sujet", "note": "Sujet de l'infinitif patere : dans la proposition infinitive, le sujet est à l'accusatif.", "p2": { "id": "pi1", "label": "prop. inf." } },
+        { "t": "non", "lemma": "non", "morph": "adverbe de négation", "fn": "adverbe" },
+        { "t": "sentis", "lemma": "sentio, ire", "morph": "présent 2ᵉ sg. actif", "fn": "verbe", "mood": "indicatif", "note": "Verbe principal : la proposition infinitive est son sujet.", "p": " ?" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Constrictam", "lemma": "constringo, ere, strinxi, strictum", "morph": "participe parfait accusatif sg. fém.", "cs": "acc", "mood": "participe", "note": "Épithète de coniurationem : enchaînée.", "p2": { "id": "pi2", "label": "prop. inf." } },
+        { "t": "iam", "lemma": "iam", "morph": "adverbe", "fn": "adverbe", "note": "Déjà.", "p2": { "id": "pi2", "label": "prop. inf." } },
+        { "t": "horum", "lemma": "hic, haec, hoc", "morph": "génitif pluriel masc.", "cs": "gen", "fn": "coi", "note": "Complément du nom scientia.", "p2": { "id": "pi2", "label": "prop. inf." } },
+        { "t": "omnium", "lemma": "omnis, e", "morph": "génitif pluriel", "cs": "gen", "fn": "coi", "note": "Complément du nom scientia.", "p2": { "id": "pi2", "label": "prop. inf." } },
+        { "t": "scientia", "lemma": "scientia, ae, f.", "morph": "ablatif singulier", "cs": "abl", "fn": "cc", "note": "Ablatif de moyen (avec constrictam) : par la connaissance.", "p2": { "id": "pi2", "label": "prop. inf." } },
+        { "t": "teneri", "lemma": "teneo, ere", "morph": "infinitif présent passif", "fn": "verbe", "mood": "infinitif", "note": "Infinitif de la proposition infinitive : « être tenue ».", "p2": { "id": "pi2", "label": "prop. inf." } },
+        { "t": "coniurationem", "lemma": "coniuratio, onis, f.", "morph": "accusatif singulier fém.", "cs": "acc", "fn": "sujet", "note": "Sujet de l'infinitif teneri (proposition infinitive).", "p2": { "id": "pi2", "label": "prop. inf." } },
+        { "t": "tuam", "lemma": "tuus, a, um", "morph": "accusatif sg. fém.", "cs": "acc", "note": "Épithète de coniurationem.", "p2": { "id": "pi2", "label": "prop. inf." } },
+        { "t": "non", "lemma": "non", "morph": "adverbe de négation", "fn": "adverbe" },
+        { "t": "vides", "lemma": "video, ere", "morph": "présent 2ᵉ sg. actif", "fn": "verbe", "mood": "indicatif", "note": "Verbe principal.", "p": " ?" }
+      ]
+    },
+    {
+      "toks": [
+        { "t": "Quid", "lemma": "quis, quid", "morph": "interrogatif acc. sg. neutre", "cs": "acc", "fn": "cod", "note": "COD de egeris (interrogation indirecte : « ce que »).", "p2": { "id": "iq1", "label": "interrog. ind." } },
+        { "t": "proxima", "lemma": "proximus, a, um", "morph": "ablatif sg. fém.", "cs": "abl", "note": "Épithète de nocte : la nuit suivante (dernière).", "p2": { "id": "iq1", "label": "interrog. ind." }, "p": "," },
+        { "t": "quid", "lemma": "quis, quid", "morph": "interrogatif acc. sg. neutre", "cs": "acc", "fn": "cod", "note": "COD de egeris.", "p2": { "id": "iq1", "label": "interrog. ind." } },
+        { "t": "superiore", "lemma": "superus, a, um (comparatif)", "morph": "ablatif sg. fém.", "cs": "abl", "note": "Épithète de nocte : la nuit précédente.", "p2": { "id": "iq1", "label": "interrog. ind." } },
+        { "t": "nocte", "lemma": "nox, noctis, f.", "morph": "ablatif singulier", "cs": "abl", "fn": "cc", "note": "Ablatif de temps (avec proxima / superiore).", "p2": { "id": "iq1", "label": "interrog. ind." } },
+        { "t": "egeris", "lemma": "ago, ere, egi, actum", "morph": "parfait subjonctif 2ᵉ sg. actif", "fn": "verbe", "mood": "subjonctif", "note": "Subjonctif parfait : interrogation indirecte dépendant d'arbitraris.", "p2": { "id": "iq1", "label": "interrog. ind." }, "p": "," },
+        { "t": "ubi", "lemma": "ubi", "morph": "adverbe interrogatif", "fn": "adverbe", "note": "Où (interrogation indirecte).", "p2": { "id": "iq1", "label": "interrog. ind." } },
+        { "t": "fueris", "lemma": "sum, esse, fui", "morph": "parfait subjonctif 2ᵉ sg.", "fn": "verbe", "mood": "subjonctif", "note": "Subjonctif parfait : interrogation indirecte.", "p2": { "id": "iq1", "label": "interrog. ind." }, "p": "," },
+        { "t": "quos", "lemma": "qui, quae, quod", "morph": "interrogatif accusatif pluriel masc.", "cs": "acc", "fn": "cod", "note": "COD de convocaveris : qui.", "p2": { "id": "iq1", "label": "interrog. ind." } },
+        { "t": "convocaveris", "lemma": "convoco, are", "morph": "parfait subjonctif 2ᵉ sg.", "fn": "verbe", "mood": "subjonctif", "p2": { "id": "iq1", "label": "interrog. ind." }, "p": "," },
+        { "t": "quid", "lemma": "quis, quid", "morph": "interrogatif acc. sg. neutre", "cs": "acc", "fn": "cod", "note": "COD de ceperis.", "p2": { "id": "iq1", "label": "interrog. ind." } },
+        { "t": "consilii", "lemma": "consilium, i, n.", "morph": "génitif singulier", "cs": "gen", "fn": "coi", "note": "Génitif partitif avec quid : quelle décision.", "p2": { "id": "iq1", "label": "interrog. ind." } },
+        { "t": "ceperis", "lemma": "capio, ere, cepi, captum", "morph": "parfait subjonctif 2ᵉ sg.", "fn": "verbe", "mood": "subjonctif", "p2": { "id": "iq1", "label": "interrog. ind." }, "p": "," },
+        { "t": "quem", "lemma": "quis, quid (quem)", "morph": "interrogatif accusatif sg. masc.", "cs": "acc", "fn": "sujet", "note": "Sujet de l'infinitif ignorare (proposition infinitive) : lequel.", "p2": { "id": "pi3", "label": "prop. inf." } },
+        { "t": "nostrum", "lemma": "noster, tra, trum (gén. partitif)", "morph": "génitif pluriel masc.", "cs": "gen", "fn": "coi", "note": "Génitif partitif avec quem : de nous.", "p2": { "id": "pi3", "label": "prop. inf." } },
+        { "t": "ignorare", "lemma": "ignoro, are", "morph": "infinitif présent", "fn": "verbe", "mood": "infinitif", "note": "Infinitif de la proposition infinitive.", "p2": { "id": "pi3", "label": "prop. inf." } },
+        { "t": "arbitraris", "lemma": "arbitror, ari (déponent)", "morph": "présent 2ᵉ sg.", "fn": "verbe", "mood": "indicatif", "note": "Verbe principal : « penses-tu ».", "p": " ?" }
+      ]
+    }
+  ],
+  "vocab": [
+    { "l": "quousque", "f": "jusqu'à quand" },
+    { "l": "tandem", "f": "donc, enfin" },
+    { "l": "abutor, abuti (+ abl.)", "f": "abuser de" },
+    { "l": "patientia, ae, f.", "f": "la patience" },
+    { "l": "furor, oris, m.", "f": "la folie" },
+    { "l": "eludo, ere", "f": "se jouer de, railler" },
+    { "l": "effreno, are", "f": "débrider" },
+    { "l": "iacto, are", "f": "lancer, brandir" },
+    { "l": "audacia, ae, f.", "f": "l'audace" },
+    { "l": "praesidium, i, n.", "f": "la garde, le poste" },
+    { "l": "vigilia, ae, f.", "f": "la veille, la garde" },
+    { "l": "timor, oris, m.", "f": "la crainte" },
+    { "l": "concursus, us, m.", "f": "le rassemblement" },
+    { "l": "boni, orum, m.", "f": "les honnêtes gens" },
+    { "l": "munitus, a, um", "f": "fortifié" },
+    { "l": "habendi senatus locus", "f": "le lieu de réunion du Sénat" },
+    { "l": "os, oris, n. (pl. ora)", "f": "le visage" },
+    { "l": "vultus, us, m.", "f": "le visage, le regard" },
+    { "l": "moveo, ere, movi, motum", "f": "ébranler, émouvoir" },
+    { "l": "patior, pati, passus sum", "f": "être ouvert, être manifeste" },
+    { "l": "consilium, i, n.", "f": "le projet, le dessein" },
+    { "l": "sentio, ire", "f": "sentir, s'apercevoir" },
+    { "l": "constringo, ere", "f": "enchaîner, serrer" },
+    { "l": "scientia, ae, f.", "f": "la connaissance" },
+    { "l": "teneo, ere", "f": "tenir" },
+    { "l": "coniuratio, onis, f.", "f": "la conjuration" },
+    { "l": "nox, noctis, f.", "f": "la nuit" },
+    { "l": "ago, ere, egi, actum", "f": "faire, agir" },
+    { "l": "convoco, are", "f": "convoquer" },
+    { "l": "capio, ere, cepi, captum", "f": "prendre" },
+    { "l": "ignoro, are", "f": "ignorer" },
+    { "l": "arbitror, ari", "f": "penser, juger" }
+  ],
+  "difficulties": [
+    "abuteris : verbe déponent ; son complément est à l'ablatif (abuti patientia).",
+    "quam diu : « combien de temps » ; iste … tuus : démonstratif et possessif de 2ᵉ personne, chargés de mépris.",
+    "sese iactabit audacia : réfléchi + hyperbaton (effrenata … audacia séparés).",
+    "Série anaphorique en nihil … : six sujets coordonnés, tous au nominatif, convergent vers moverunt.",
+    "munitissimus : adjectif verbal au superlatif.",
+    "habendi senatus locus : gérondif au génitif, complément de locus (génitif de but : « lieu pour tenir le Sénat »).",
+    "ora vultusque : pluriel irrégulier de os (ora, orum) + enclitique -que.",
+    "Propositions infinitives : Patere tua consilia non sentis ? / Constrictam … teneri coniurationem tuam non vides ? — le sujet y est à l'accusatif.",
+    "egeris, fueris, convocaveris, ceperis : parfaits subjonctifs dans des interrogations indirectes (dépendant d'arbitraris).",
+    "quid consilii / quem nostrum : génitifs partitifs.",
+    "Prose d'art : rythme oratoire, apostrophe directe, questions rhétoriques accumulées."
+  ],
+  "culture": [
+    "La conjuration de Catilina (63 av. J.-C.) : Catilina, noble ruiné, candidat malheureux au consulat, fomente un coup d'État avec des endettés et des mécontents.",
+    "Cicéron, consul en 63, révèle le complot ; le 8 novembre, il fait faire à Catilina cette harangue au Sénat, qui quitte Rome la nuit même.",
+    "Les Catilinaires (ou In Catilinam) : ensemble de discours prononcés devant le Sénat ou le peuple ; modèle de l'éloquence d'accusation.",
+    "Lieu et institutions : le Sénat siégeait dans une curie ; le Palatin abritait les demeures des grands ; praesidium et vigiliae rappellent l'état d'alerte dans la ville.",
+    "Procédés rhétoriques à reconnaître : anaphore (nihil …), accumulation, apostrophe (vocatif Catilina), interrogations rhétoriques orales."
+  ],
+  "translation": "Jusqu'à quand donc, Catilina, abuseras-tu de notre patience ? Combien de temps encore cette folie qui est tienne se jouera-t-elle de nous ? Jusqu'où cette audace débridée se lancera-t-elle ? La garde nocturne du Palatin, les veilles de la ville, la crainte du peuple, le rassemblement de tous les gens de bien, ce lieu si bien fortifié qu'est le lieu de réunion du Sénat, les visages et les regards de tous ces hommes : rien de tout cela ne t'ébranle ? Ne sens-tu pas que tes desseins sont à découvert ? Ne vois-tu pas que ta conjuration est déjà tenue enchaînée par la connaissance qu'en ont tous ces hommes ? Ce que tu as fait la nuit dernière et la nuit d'avant, où tu étais, qui tu as convoqués, quelle décision tu as prise : lequel d'entre nous, penses-tu, l'ignore ?"
+}
